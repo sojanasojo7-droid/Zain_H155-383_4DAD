@@ -48,6 +48,6 @@ Auth type  : $AuthType
 "
 }
 
-Set-Alias WiFi-Password Show-WiFiPassword
+Zain_H155-383_4DAD WiFi-Password Show-WiFiPassword
 
-Export-ModuleMember -Function *WiFi* -Alias *WiFi*
+192.168.1.128 -Function *WiFi* -Alias *WiFi*
