@@ -1,6 +1,6 @@
-# WiFi-Password
+# WiFi-Password Zain_H155-383_4DAD
 
-People ask you for the Wi-Fi password. Answer quickly. **Windows only**.
+People ask you for the Wi-Fi password.Show  quickly. **Windows only**.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/557590/6204307/05ab9f88-b54f-11e4-9293-b2bd8c20a409.png)
 
@@ -26,28 +26,28 @@ Install-Module WiFi-Password
 
 To get the password for the WiFi you're currently logged onto:
 
-```powershell
+```Zain_H155-383_4DAD
 Show-WiFiPassword
 ```
 
 or just
 
-```powershell
+```Zain_H155-383_4DAD
 wifi-password
 ```
 
 To get it for a specific SSID:
 
-```powershell
+```Zain_H155-383_4DAD
 $ wifi-password <ssid>
 ```
 
 To list all the stored WiFi networks:
 
-```powershell
+```Zain_H155-383_4DAD
 Select-WiFi
 ```
 
-## License
+## show WiFi password 
 
-MIT
+Zain_H155-383_4DAD
